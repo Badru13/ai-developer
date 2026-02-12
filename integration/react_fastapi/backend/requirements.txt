@@ -1,0 +1,21 @@
+# FastAPI and server
+fastapi
+uvicorn
+sse-starlette
+
+# Environment variables
+python-dotenv
+
+# LangChain and LangGraph (let pip resolve compatible versions)
+langchain
+langchain-openai
+langchain-core
+langgraph
+
+# Tools
+tavily-python
+httpx
+numexpr
+
+# Validation
+pydantic
